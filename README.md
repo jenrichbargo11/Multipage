@@ -19,11 +19,13 @@ The design features a dark overlay background with green theme accents for a mod
 🎨 Custom UI styling (background image, glass effect sidebar)
 🌐 Navigation using Streamlit multipage system
 💚 Green-themed modern portfolio design
+
 🛠️ Tech Stack
 Python 🐍
 Streamlit 🌐
 HTML/CSS (for custom styling)
 PIL (for image handling)
+
 📂 Project Structure
 portfolio/
 │── Home.py
